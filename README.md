@@ -116,3 +116,13 @@ ghostwriter/
 └── data/
     └── Weibo_Hu.json
     └── ... (other data files)
+```
+
+## Star
+
+
+<p style="text-align: center;">
+    <a href="https://api.star-history.com/svg?repos=superzhang21/ghostwriter">
+        <img alt="start" width=50% src="https://api.star-history.com/svg?repos=superzhang21/ghostwriter"/>
+    </a>
+</p>
